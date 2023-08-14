@@ -1,4 +1,3 @@
--- In this SQL work we will be showing the following;
 
 select * from department
 select * from employee
